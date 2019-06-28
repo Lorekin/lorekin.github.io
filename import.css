@@ -696,7 +696,7 @@ div.unread-mentions-indicator-bottom {
 
 [class~=app] {
   background: var(--background-image) !important;
-  background-size: 10% !important;
+  background-size: 5% !important;
 }
 
 .appMount-3lHmkl {
@@ -713,7 +713,7 @@ div.unread-mentions-indicator-bottom {
   position: absolute;
   width: 100vw;
   background: var(--background-image) !important;
-  background-size: 10% !important;
+  background-size: 5% !important;
 }
 
 .typeWindows-1za-n7 {
